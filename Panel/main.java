@@ -634,7 +634,7 @@ public class main extends javax.swing.JFrame {
                        Logger.getLogger(main.class.getName()).log(Level.SEVERE, null, ex);
                    }
                    
-             //yemeklikontrol
+             //yemek kontrolü
           
                 if(Integer.parseInt(gatheredFoodGenerator.getText()) <= 0){
           
